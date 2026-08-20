@@ -102,9 +102,13 @@ contact:   bedirhanparlak8@gmail.com
 ---
 
 <!--
-  GITHUB ANALYTICS — METRICS_TOKEN secret'i eklendikten sonra
-  asagidaki yorum isaretlerini kaldir (<!-- ve --> satirlarini sil).
+  GITHUB ANALYTICS
+  Bu blok METRICS_TOKEN secret'i eklenene kadar gizli.
+  Acmak icin: bu satirin ustundeki yorum-acma isaretini ve
+  en asagidaki yorum-kapatma isaretini sil.
   Kartlari .github/workflows/metrics.yml her gece uretip repoya yazar.
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
